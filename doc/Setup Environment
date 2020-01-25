@@ -1,5 +1,5 @@
 In order to use the Python script in this repository, please use the following environment configuration using anaconda on Windows 10
-This is courtey of Pierian Data Inc.
+This is courtey of Pierian Data Inc.  Also change the directory structure at the bottom if needed.
 
 name: python-cvcourse
 channels:
